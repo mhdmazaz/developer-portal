@@ -709,6 +709,15 @@ const Showcases = [
     source: null,
     tags: ["dex"],
   },
+  {
+    title: "Kardano Club",
+    description:
+      "Mint your NFT on the Cardano blockchain. No technical knowledge is required. Simple UI and smooth UX for both mobile and desktop.",
+    preview: require("./showcase/kardanoclub.png"),
+    website: "https://kardanoclub.io",
+    source: null,
+    tags: ["nft","tokens","metadata"],
+  },
 ];
 
 export const TagList = Object.keys(Tags);
